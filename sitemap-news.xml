@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <url>
+    <loc>https://www.clesio.net/2024/11/trump-pede-demissao-do-mcdonalds.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Clesio Net</news:name>
+        <news:language>pt-br</news:language>
+      </news:publication>
+      <news:publication_date>2024-11-07T22:40:23Z</news:publication_date>
+      <news:title>Em brincadeira, Trump pede 'demissão' do McDonald's</news:title>
+    </news:news>
+  </url>
+  <!-- Repetir a estrutura acima para cada artigo recente -->
+</urlset>
